@@ -1,0 +1,17 @@
+{
+  "name": "discord-nickname-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0"
+  },
+  "engines": {
+    "node": "15.x"
+  },
+  "private": true
+}
